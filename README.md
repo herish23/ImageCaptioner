@@ -1,5 +1,6 @@
 # Image Captioning with Transformer - CNN & NLP
 
+<img width="925" alt="2k_pictures" src="https://github.com/herish23/ImageCaptioner/assets/87555721/25106d8c-0bec-4823-8cf9-1a1b63376a69">
 
 This repository contains code for an image captioning model using a Transformer architecture implemented with TensorFlow. The model takes an input image and generates a descriptive caption for the image using a trained Transformer-based decoder. It uses Convolutional Neural Networks (CNNs) and Natural Language Processing to generate captions correspondingly 
 
